@@ -22,7 +22,7 @@ can be applied to smart contracts deployed on the public mainnet.
 These stamps are applied by Security Auditing firms on behalf of their clients as a public record
 that auditing was performed conforming to the guidelines.
 
-*A Stamp is irrefutible once issued*
+**A Stamp is irrefutible once issued.**
 This means that a stamp is part of the public record, and is a central location to point to
 for what documentation and auditing were performed on a specific contract.
 When an event occurs, this stamp is investigated and the auditing firm is brought in to an
