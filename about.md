@@ -24,4 +24,4 @@ and that our interests align with that of the overall Ethereum community.
 
 ---
 
-If you wish to donate or become a sponsor, please contact us at sponsorship@secureth.org
+If you wish to donate or become a sponsor, please contact us at [sponsorship@secureth.org](emailto:sponsorship@secureth.org)
