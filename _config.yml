@@ -1,0 +1,9 @@
+title: SecurEth
+author: The SecurEth Foundation
+description: Smart Contract Development Guidelines for Ethereum
+url: "https://secureth.org/"
+lang: en
+timezone: UTC
+exclude:
+  - README.md
+  - LICENSE
