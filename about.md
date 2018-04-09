@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-SecurEth is an organization that develops development guidelines for smart contract engineers.
+SecurEth is an organization that develops design guidelines for smart contract engineers.
 The basis for this work is to help create a common framework for risk assessment and mitigation
 that has a strong connection to the state of the art by accepting community suggestions
 with expert review by our industry partners.
