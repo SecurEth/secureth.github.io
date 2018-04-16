@@ -8,3 +8,5 @@ includes: ["guidelines"]
 exclude:
   - README.md
   - LICENSE
+  - CNAME
+  - .git*
