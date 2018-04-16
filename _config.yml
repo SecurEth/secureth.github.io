@@ -4,6 +4,7 @@ description: Smart Contract Development Guidelines for Ethereum
 url: "https://secureth.org/"
 lang: en
 timezone: UTC
+includes: ["guidelines"]
 exclude:
   - README.md
   - LICENSE
