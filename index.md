@@ -13,7 +13,7 @@ The Ethereum Network opens your business platform to a global, permissionless ma
 but it also places your software in one of the most *challenging* environments that has ever been created.
 
 Smart Contract Systems for global trade on the Ethereum Network must be developed to the
-*highest quality* possible to make sure your business can survive this environment.
+*highest quality possible* to make sure your business can survive this hostile environment.
 
 ---
 
