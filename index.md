@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# SecurEth: Secure Your Smart Contracts
+
 **Smart Contract Systems form the basis of your business-critical logic and data.**
 
 They handle valuable assets on behalf of you and your customers,
