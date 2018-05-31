@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="247.53333mm"
-   height="247.53333mm"
-   viewBox="0 0 247.53333 247.53333"
+   width="275mm"
+   height="275mm"
+   viewBox="0 0 275 275"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="logo.svg">
+   inkscape:version="0.92.3 (3ce5693, 2018-03-11)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/bryant/Dropbox/work/SecurEth/secureth.github.io/assets/logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,15 +29,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25"
-     inkscape:cx="194.05122"
+     inkscape:cx="-485.94878"
      inkscape:cy="363.58629"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1859"
-     inkscape:window-height="1025"
-     inkscape:window-x="61"
-     inkscape:window-y="27"
+     inkscape:window-width="2503"
+     inkscape:window-height="1056"
+     inkscape:window-x="57"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -52,9 +55,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-297.97916,-33.53334)">
+     transform="translate(-297.97916,-6.066665)">
     <g
-       id="g4623">
+       id="g4623"
+       transform="translate(14.81667,-14.81667)">
       <g
          transform="translate(29.029694,4.7528397)"
          id="g4596">
