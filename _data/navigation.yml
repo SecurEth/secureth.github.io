@@ -6,6 +6,6 @@ main:
   - title: "Stamp"
     url: /stamp/
   - title: "Guidelines"
-    url: /guidelines/
+    url: https://guidelines.secureth.org/
   - title: "Contribute"
     url: https://github.com/SecurEth/
