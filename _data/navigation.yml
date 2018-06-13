@@ -3,6 +3,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Grants"
+    url: /grants/
   - title: "Stamp"
     url: /stamp/
   - title: "Guidelines"
