@@ -3,10 +3,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Grants"
-    url: /grants/
-  - title: "Stamp"
-    url: /stamp/
+  - title: "Discourse"
+    url: https://discourse.secureth.org/
   - title: "Guidelines"
     url: https://guidelines.secureth.org/
   - title: "Contribute"
